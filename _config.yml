@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+
+# staticman (comments) configuration
+staticman_url: https://staticman-comments-app.herokuapp.com/v2/entry/piero0920/comments/master/comments
